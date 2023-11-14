@@ -4,7 +4,7 @@ Eu desenvolvo para tornar a vida das pessoas mais simples.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-- 👨🏽‍💻 Buscando o constante aprendizado de novas tecnologias
+- 👨🏽‍💻 Buscando o constante aprendizado de novas tecnologias, estudando node.js e react atualmente
 - 😎 Estou começando a achar o **back-end** interessante...
 
 
