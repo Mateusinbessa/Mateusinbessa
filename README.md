@@ -11,7 +11,9 @@ Eu desenvolvo para tornar a vida das pessoas mais simples.
 
 <h3> :rocket: &nbsp;Skills</h3>
 
-**Front-End**
+<div>
+<p><strong>Back-End</strong></p>
+</div>
 
 <div>
   <img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white />
@@ -20,13 +22,17 @@ Eu desenvolvo para tornar a vida das pessoas mais simples.
   <img src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB/>
 </div>
 
-**Back-End**
+<div>
+<p><strong>Back-End</strong></p>
+</div>
 
 <div>
   <img src=https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white />
 </div>
 
-**Databases**
+<div>
+<p><strong>Back-End</strong></p>
+</div>
 
 <div>
   <img src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white />
