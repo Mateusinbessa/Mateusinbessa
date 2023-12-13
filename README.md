@@ -12,7 +12,7 @@ Eu desenvolvo para tornar a vida das pessoas mais simples.
 <h3> :rocket: &nbsp;Skills</h3>
 
 <div>
-<p><strong>Back-End</strong></p>
+<p><strong>Front-End</strong></p>
 </div>
 
 <div>
@@ -31,7 +31,7 @@ Eu desenvolvo para tornar a vida das pessoas mais simples.
 </div>
 
 <div>
-<p><strong>Back-End</strong></p>
+<p><strong>Databases</strong></p>
 </div>
 
 <div>
