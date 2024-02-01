@@ -36,6 +36,14 @@ Eu desenvolvo para tornar a vida das pessoas mais simples.
   <img src=https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white />
 </div>
 
+<h3><strong>DevOps</strong></h3>
+
+
+<div>
+  <img src=https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white />
+  <img src=https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white />
+</div>
+
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Mateusinbessa">
