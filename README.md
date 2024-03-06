@@ -4,8 +4,9 @@ Eu desenvolvo para tornar a vida das pessoas mais simples.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-- 🎈 Um curioso nato, com sede de conhecimento, buscando constantemente o apredizado de novas tecnologias.
-- 👩‍💻 Estou estudando **Typescript** e **Rust** atualmente.
+- 🎈 Um **curioso** nato, com sede de conhecimento, **obcecado** pelo processo, os resultados são consequências.
+- 😱 Estudo **C**, e **Rust** por diversão no meu tempo livre.
+- 👩‍💻 Trabalhando um pouco com **Python** em alguns projetos atualmente.
 - 😎 Estou começando a achar o **back-end** interessante...
 
 
@@ -25,7 +26,7 @@ Eu desenvolvo para tornar a vida das pessoas mais simples.
 
 <div>
   <img src=https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white />
-  <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black />
+  <img src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white />
 </div>
 
 <h3><strong>Databases</strong></h3>
