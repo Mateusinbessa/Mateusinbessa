@@ -4,10 +4,10 @@ Eu desenvolvo para tornar a vida das pessoas mais simples.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-- 🎈 Um **curioso** nato, com sede de conhecimento, **obcecado** pelo processo, os resultados são consequências.
-- 😱 Estudo **C**, e **Rust** por diversão no meu tempo livre.
-- 👩‍💻 Trabalhando um pouco com **Python** em alguns projetos atualmente.
+- 🎈 Um **curioso** nato, com sede de conhecimento e **obcecado** pelo processo, os resultados são consequências.
+- 👩‍💻 Trabalhando um pouco com **Python**, transformando tarefas chatas e repetitivas em 1 clique do mouse.
 - 😎 Estou começando a achar o **back-end** interessante...
+- 😱 Me aprofundando em **Typescript** atualmente.
 
 
 <h3> :rocket: &nbsp;Skills</h3>
